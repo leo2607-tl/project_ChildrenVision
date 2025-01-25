@@ -31,9 +31,6 @@ npm expo start
 ```
 Open your browser and navigate to `http://localhost:8000` to access the app.
 
-## Contributing
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
 ## Contact
 For any questions or feedback, please contact us at tranvanluongk15@siu.edu.vn
 
